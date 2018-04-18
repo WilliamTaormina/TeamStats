@@ -1,2 +1,2 @@
 # TeamStats
-Working with Objects, and Data Structures, and Kpbe Bryant!
+Working with Objects, and Data Structures, and Kobe Bryant!
